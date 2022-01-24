@@ -31,6 +31,7 @@
 }
 
 body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     /* font-family:'Times New Roman', Times, serif; */
     background-color: rgb(35, 36, 42);
     color: #3FCFDB !important;
@@ -110,7 +111,7 @@ body {
 }
 
 #navbarSupportedContent a {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #fff;
     /* text-transform: uppercase; */
     text-decoration: none;
@@ -128,7 +129,7 @@ body {
     height: 2px;
     left: 50%;
     position: absolute;
-    background: #403911;
+    background: #ffffff;
     transition: width 0.3s ease 0s, left 0.3s ease 0s;
     width: 0;
 }
@@ -151,7 +152,7 @@ body {
 .nav-link {
     /* text-shadow: 0px 2px 2px rgba(255, 255, 255, 0.4);  */
     margin-left: 2.5rem !important;
-    color: #3b3025 !important;
+    color: #ffffff !important;
 }
 
 #introCarousel {
@@ -320,22 +321,23 @@ body {
 
 .titleSection {
     font-size: 40px;
-    font-family: "Times New Roman", Times, serif, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .titleProjects {
     font-size: 40px;
-    font-family: "Times New Roman", Times, serif, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .slogan {
     font-size: 22px;
-    font-family: "Times New Roman", Times, serif, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff
 }
 
 .text-muted {
     font-size: 22px;
-    font-family: "Times New Roman", Times, serif, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 19px;
     color: #403911 !important;
 }
@@ -413,7 +415,7 @@ body {
 .text {
     text-align: left;
     padding-top: 10px;
-    font-family: "Times New Roman", Times, serif, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .whiteText {
