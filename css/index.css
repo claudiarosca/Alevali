@@ -32,7 +32,8 @@
 
 body {
     /* font-family:'Times New Roman', Times, serif; */
-    color: #403911 !important;
+    background-color: rgb(35, 36, 42);
+    color: #3FCFDB !important;
 }
 
 .menu-left {
@@ -255,7 +256,6 @@ body {
 }
 
 .section1 {
-    background-image: url("/assets/background.png");
     width: 100%;
     margin-top: 10rem;
     margin-bottom: 10rem;
@@ -363,7 +363,6 @@ body {
 .swiper-slide {
     text-align: center;
     font-size: 18px;
-    background: #fff;
     display: -webkit-box;
     display: -ms-flexbox;
     display: -webkit-flex;
